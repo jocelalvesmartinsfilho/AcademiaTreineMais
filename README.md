@@ -28,12 +28,18 @@ Exportar lista
 -
 ## não funcionais:
 - vai ser seguro - toda alteração feita pelo funcionario é registrada no nome dele
-- tera como mudar para o tema brancp ou escuro
+- tera como mudar para o tema branco ou escuro
 - 
 
 ## Telas:
 ### tela de login
-Cadatro dod Instrutores/Professores pelo CPF
+Cadatro do Instrutores/Professores pelo CPF
 ### Pagina inicial
+historico de matriculas
 listas dos alunos CPF,
-castro dos alunos
+cadastro dos alunos
+tipos de planos: mensal, anual, trimestral
+Menus dentro do plano: para cadastrar mais planos, excluir é criar/editar outro plano, gerar o contrato do plano para manda para o cliente no whatsapp
+Menu:Relatorio
+
+### Pagina segundaria 
